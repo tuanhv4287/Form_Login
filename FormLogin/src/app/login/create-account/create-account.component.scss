@@ -1,0 +1,21 @@
+#create-account{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .form-create-account{
+    width: 350px;
+  }
+  h1{
+    margin: 1rem 0 1rem 0;
+    text-align: center;
+  }
+  .button{
+    float: right;
+    margin-bottom: 2rem;
+  }
+  .mat-mdc-raised-button.mat-primary {
+    --mdc-protected-button-container-color: #29419f;
+}
+
+}
